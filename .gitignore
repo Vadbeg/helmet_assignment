@@ -127,3 +127,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+.idea/
+notebooks/
+logs/
+wandb/
+checkpoints/
+
+*.nii
+*.nii.gz
+*.mha
+
+*.csv
