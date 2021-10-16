@@ -139,3 +139,5 @@ checkpoints/
 *.mha
 
 *.csv
+
+exp/
